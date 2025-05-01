@@ -11,3 +11,5 @@ Django
 djangorestframework
 joblib
 python-multipart
+openai
+ollama  # optional; local LLMs
